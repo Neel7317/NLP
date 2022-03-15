@@ -18,3 +18,7 @@ In this Repository following topics is coverd
 # 4.Job Recommender System
 (https://github.com/Neel7317/NLP/blob/main/job_recommender_system.ipynb)
 - This is the project that i have created for professional networking site http://54.204.171.251/login.php where i have gather different data and perform NLP as well feature engineering, feature selection technique and use different similarity technique for recommender system and finally choes best one that is receive input as user skillset and based on skills recommender system gives recommendation as top n no of job.
+# 5. Text Intent Classification
+(https://github.com/Neel7317/NLP/blob/main/Text_Intent_Classification.ipynb)
+- This project aims to fine tune one of the state of the art Algorithm (BERT) which is use for many tasks. Here i have fine-tuned with custom data set and 87% accuracy 
+  for multi-class classificcation(7 classes) 
